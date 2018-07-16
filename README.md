@@ -1,0 +1,1 @@
+# Smashing magazine design heatmap for TOP's CSS course
