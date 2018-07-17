@@ -15,6 +15,7 @@ html, body {
   height: 220px;
   z-index: 2;
   background-color: rgba(235,235,235,0.4);
+  box-sizing: border-box;
 }
 
 .navbar-item {
